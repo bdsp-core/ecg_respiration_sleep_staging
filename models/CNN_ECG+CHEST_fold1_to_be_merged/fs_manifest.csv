@@ -1,0 +1,4 @@
+filename,filesize,encoding,header
+CNN_ECG+CHEST_fold1_1.pth,52000000,,
+CNN_ECG+CHEST_fold1_2.pth,52000000,,
+CNN_ECG+CHEST_fold1_3.pth,20247195,,
