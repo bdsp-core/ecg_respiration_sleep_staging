@@ -14,6 +14,6 @@ Notes:
 * to get models/CNN\_ECG+ABD\_fold1.pth, run `cd models`, and then `python merge_file.py CNN_ECG+ABD_fold1_to_be_merged`
 * to get models/CNN\_ECG+CHEST\_fold1.pth, run `cd models`, and then `python merge_file.py CNN_ECG+CHEST_fold1_to_be_merged`
 
-### If you use this in your work, please cite the following paper
+## If you use this in your work, please cite the following paper
 
-[Sun, H., Ganglberger, W., Panneerselvam, E., Leone, M.J., Quadri, S.A., Goparaju, B., Tesh, R.A., Akeju, O., Thomas, R.J. and Westover, M.B., 2020. Sleep staging from electrocardiography and respiration with deep learning. Sleep, 43(7), p.zsz306.])https://doi.org/10.1093/sleep/zsz306)
+[Sun, H., Ganglberger, W., Panneerselvam, E., Leone, M.J., Quadri, S.A., Goparaju, B., Tesh, R.A., Akeju, O., Thomas, R.J. and Westover, M.B., 2020. Sleep staging from electrocardiography and respiration with deep learning. Sleep, 43(7), p.zsz306.](https://doi.org/10.1093/sleep/zsz306)
